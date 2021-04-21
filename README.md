@@ -1,3 +1,14 @@
+iText Client Migration
+=====================
+
+Please use the last version of the iText client.
+
+https://github.com/SwisscomTrustServices/itext7-ais
+
+For testing the new iTex client use the SpringBoot Project, see first the video in the readme.
+
+https://github.com/SwisscomTrustServices/itext7-ais-demo
+
 AIS: iText
 ============
 
